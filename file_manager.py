@@ -1,5 +1,3 @@
-#from cProfile import Label
-
 from tkinter import filedialog, messagebox, Button, Tk, Label
 import shutil
 import os
