@@ -4,7 +4,7 @@ import shutil
 import os
 import easygui
 
-print("___________hie__________")
+print("___________hiee__________")
 
 
 def file_open_box():  #مسیر فایل
