@@ -1,4 +1,3 @@
-
 from tkinter import filedialog, messagebox, Button, Tk, Label
 import shutil
 import os
@@ -7,7 +6,7 @@ import easygui
 print("___________hiee__________")
 
 
-def file_open_box():  #مسیر فایل
+def file_open_box():   #مسیر فایل
     path = easygui.fileopenbox()
     return path
 
