@@ -5,8 +5,6 @@ import easygui
 
 print("___________hiee__________")
 
-def test():
-    pass
 
 def file_open_box():   #مسیر فایل
     path = easygui.fileopenbox()
