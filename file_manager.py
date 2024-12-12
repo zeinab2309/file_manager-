@@ -4,7 +4,7 @@ import os
 import easygui
 
 print("___________hiee__________")
-
+print("slm")
 
 def file_open_box():   #مسیر فایل
     path = easygui.fileopenbox()
